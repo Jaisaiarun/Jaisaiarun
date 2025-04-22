@@ -3,7 +3,7 @@
 🎓 **Master’s Student in Data Science** at the Philipps University of Marburg  
 📍 Currently based in Marburg, Germany  
 📧 [jaisaiarunps@gmail.com](mailto:jaisaiarunps@gmail.com) | 📞 +49 15115574447  
-🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/jaisaiarunps/) | [GitHub](https://github.com/Jaisaiarun)
 
 ---
 
@@ -20,8 +20,8 @@ My approach is hands-on and solutions-oriented, with a passion for applying cutt
 - **Research Assistant** @ Philipps University of Marburg  
   Working with LLMs and satellite imagery for urban analytics and building age estimation.
 
-- **Student Assistant – Introduction to Computer Science**  
-  Tutoring over 40 undergrads and facilitating practical Python labs.
+- **Team Member – iGEM Marburg**  
+  Building an AI model to predecit combatibility of different modules in NRPS systems. 
 
 ---
 
