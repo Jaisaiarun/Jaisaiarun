@@ -1,79 +1,96 @@
-# 👋 Hi, I'm Jaisaiarun Prathapam Srinivasan
+# Hi, I'm Jaisaiarun Prathapam Srinivasan
 
-🎓 **Master’s Student in Data Science** at the Philipps University of Marburg  
-📍 Currently based in Marburg, Germany  
-📧 [jaisaiarunps@gmail.com](mailto:jaisaiarunps@gmail.com) | 📞 +49 15115574447  
-🔗 [LinkedIn](https://www.linkedin.com/in/jaisaiarunps/) | [GitHub](https://github.com/Jaisaiarun)
-
----
-
-## 🚀 About Me
-
-I’m a dynamic Data Scientist with a strong background in building deep learning models, data analysis, and process automation. I specialize in Python-based ecosystems and have experience across academic research, industry projects, and data migration engineering.
-
-My approach is hands-on and solutions-oriented, with a passion for applying cutting-edge machine learning and AI techniques to real-world problems.
+🎓 **MSc Data Science** · Philipps-University Marburg, Germany  
+📧 jaisaiarups@gmail.com · 📞 +49 151 155 74447  
+🔗 [LinkedIn](https://www.linkedin.com/in/jaisaiarunps/)
 
 ---
 
-## 💼 Current Roles
+## About Me
 
-- **Research Assistant** @ Philipps University of Marburg  
-  Working with LLMs and satellite imagery for urban analytics and building age estimation.
-
-- **Team Member – iGEM Marburg**  
-  Building an AI model to predecit combatibility of different modules in NRPS systems. 
-
----
-
-## 📚 Education
-
-- **M.Sc. Data Science**  
-  Philipps University of Marburg, Germany  
-  _Expected Completion: 2026_
-
-- **B.Tech Computer Science**  
-  SASTRA University, India (Distinction)
+Data Science researcher with hands-on experience building ML pipelines,
+audio deep learning systems, and bioinformatics tools across academic and
+industry settings. Currently working at the Max Planck Institute on
+pharmaceutical AI pipelines and protein design. Published researcher and
+recipient of 4 iGEM awards including Top 10 globally and Best Software Tool
+2025 for mATChmaker.
 
 ---
 
-## 🛠️ Skills
+## Current Roles
 
-**Languages & Libraries**  
-`Python` | `MySQL` | `MATLAB` | `TensorFlow` | `PyTorch` | `Git` | `Appscripts`
+**Research Assistant — Bioinformatics & AI**  
+Max Planck Institute for Terrestrial Microbiology, AG Bode  
+Building web-based NRPS domain analysis platforms, integrating antiSMASH
+and MIBiG databases, and applying AI.zymes (ProteinMPNN, ESMFold, Rosetta)
+for computational protein redesign in collaboration with AG Bunzel.
 
-**Domains**  
-- Machine Learning & Deep Learning  
-- Natural Language Processing  
-- Image & Satellite Data Processing  
-- ETL & Data Pipelines  
-- GeoSpatial Analysis (QGIS, GeoPandas, Rasterio)
-
----
-
-## 📈 Projects
-
-- **🔍 Comparing xAI Techniques for Image Classification**  
-  Evaluated explainable AI methods using pretrained Inception_v3 on complex image datasets.
-
-- **🫀 Cardio Feature Analysis using ML**  
-  Built and compared models to identify key indicators in cardiovascular diseases using hybrid model VOTE.
+**Research Assistant — Applied AI & Computer Vision**  
+Philipps-University Marburg, AG Freisleben  
+Audio deep learning for bird species and call-type recognition, SAM3-based
+wildlife detection pipelines, and geospatial ML for building age estimation.
 
 ---
 
-## 📄 Publications
+## Awards — iGEM Marburg 2025 (NRPieceS / mATChmaker)
 
-**FREEROM** – *Effective Surveillance Investigation of Water-Borne Diseases from Social Media using Machine Learning*  
-Published in *International Journal on Artificial Intelligence Tools*  
-> Leveraged Twitter data, clustering algorithms, and ML to identify early warning signals for disease outbreaks.
-
----
-
-## 🌐 Languages
-
-- English – Highly Proficient  
-- German – A2 Level
+- 🏆 Top 10 Team Globally
+- 💻 Best Software Tool — mATChmaker
+- 🧬 Best Parts Collection
+- 🦠 Best Infectious Disease Project
 
 ---
 
-📌 *I’m always open to new research opportunities, collaborations, and innovative data projects. Feel free to connect!*
+## Selected Projects
 
+- **mATChmaker** — Dockerised bioinformatics platform for NRPS domain
+  compatibility analysis · [github.com/Jaisaiarun/mATChmaker-iGEM-Marburg-2025](https://github.com/Jaisaiarun/mATChmaker-iGEM-Marburg-2025)
+- **PMAM Audio Event Detection** — Few-shot sound event detection in
+  archival political speech · PyTorch · Transformer4SED · Librosa
+- **Bird Species & Call-Type Recognition** — Deep learning models for
+  audio classification across large-scale bird sound corpora
+- **SAM3 Wildlife Detection** — Automated segmentation and labelling
+  pipeline for field wildlife photography · PyTorch · SAM3
+- **GenAI Caption Pipeline** — Automated NLP caption generation from
+  BirdSET audio metadata using OpenAI APIs for LLM fine-tuning
+- **Building Age Estimation** — Siamese CNN + Vision Transformers for
+  construction year prediction from satellite imagery · QGIS · GeoPandas
+
+---
+
+## Skills
+
+**Core:** Python · PyTorch · SQL · R  
+**Audio AI:** Librosa · Transformer4SED · PMAM · spectrogram analysis  
+**Computer Vision:** SAM3 · OpenCV · CNNs · Vision Transformers  
+**NLP & GenAI:** HuggingFace Transformers · OpenAI APIs · LLM fine-tuning  
+**Bioinformatics:** RDKit · Biopython · Chai-1 · PARAS · NRPS analysis  
+**Protein Design:** AI.zymes · ProteinMPNN · ESMFold · RosettaDesign  
+**Data Engineering:** Pandas · ETL pipelines · Docker · REST APIs · MySQL  
+**Geospatial:** QGIS · GeoPandas · Rasterio
+
+---
+
+## Publication
+
+**FREEDOM** — Surveillance of Water-Borne Diseases from Social Media using ML  
+*International Journal on Artificial Intelligence Tools* (World Scientific, 2022)  
+NLP · Spectral Clustering · Apriori · Twitter data · Epidemiological surveillance
+
+---
+
+## Education
+
+**MSc Data Science** — Philipps-University Marburg *(2024 – Present)*  
+**BTech Computer Science** — SASTRA University, India *(2018 – 2022)*
+
+---
+
+## Languages
+
+English (C1) · German (A2 — enrolled in B1)
+
+---
+
+*Open to research collaborations, working student roles, and thesis
+opportunities in ML, bioinformatics, and audio AI.*
