@@ -1,7 +1,7 @@
 # Hi, I'm Jaisaiarun Prathapam Srinivasan
 
 🎓 **MSc Data Science** · Philipps-University Marburg, Germany  
-📧 jaisaiarups@gmail.com · 📞 +49 151 155 74447  
+📧 jaisaiarups@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jaisaiarunps/)
 
 ---
@@ -18,6 +18,12 @@ recipient of 4 iGEM awards including Top 10 globally and Best Software Tool
 ---
 
 ## Current Roles
+
+**Master Thesis Student — Computational Protein Design**  
+Max Planck Institute for Terrestrial Microbiology, AG Bunzel and AG Bode *(Sep 2026 – Mar 2027)*  
+Thesis: *Rewiring the Assembly Line: Computational Design and Evolution of
+Nonribosomal Peptide Synthetases with AI.zymes*. Engineering the GxpS A3
+adenylation domain to accept non-canonical amino acids.
 
 **Research Assistant — Bioinformatics & AI**  
 Max Planck Institute for Terrestrial Microbiology, AG Bode  
@@ -92,5 +98,5 @@ English (C1) · German (A2 — enrolled in B1)
 
 ---
 
-*Open to research collaborations, working student roles, and thesis
-opportunities in ML, bioinformatics, and audio AI.*
+*Available from March 2027 for full-time roles and PhD positions in machine
+learning, data science, and computational biology (Germany, EU, Switzerland).*
